@@ -14,3 +14,6 @@ Faculdade FAI
 ## Features
 
 >As aulas de lds são ministradas as 21h
+
+
+Juliana Feia - alteração do projeto 
